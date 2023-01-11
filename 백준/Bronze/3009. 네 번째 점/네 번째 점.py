@@ -1,4 +1,3 @@
-
 list_x = []
 list_y = []
 
